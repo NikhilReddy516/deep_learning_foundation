@@ -51,7 +51,7 @@ def step_gradient(b_current, m_current, points, learning_rate):
 
 def run():
   # Step 1 - collect our data
-  points = genfromtxt('data.csv', delimiter = ',')
+  points = genfromtxt('live_demo.csv', delimiter = ',')
   
   # Step 2 - define our hyperparameters
   # how fast should our model converge?
