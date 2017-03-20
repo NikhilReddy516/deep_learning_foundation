@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
+
+**/*.zip
+**/*.pickle
+
 w3/sentiment_network/labels.txt
 w3/sentiment_network/reviews.txt
