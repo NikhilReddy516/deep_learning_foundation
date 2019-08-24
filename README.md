@@ -1,53 +1,73 @@
-Udacity Deep Learning Foundation
-===
+# Udacity Deep Learning Notes
 
-### WEEK 1
-[Types of Machine Learning and when to use Machine Learning](https://github.com/tuliren/deep_learning_foundation/tree/master/w1)
+[Source](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
-### WEEK 2
-[Neural Network Architecture and Types](https://github.com/tuliren/deep_learning_foundation/tree/master/w2)
+## [01 Introduction](01-intro/)
 
-### WEEK 3
-[Cloud Computing and Sentiment Analysis](https://github.com/tuliren/deep_learning_foundation/tree/master/w3)
+| Lesson | Title | Status |
+| ---- | ---- | ---- |
+| 01 | Welcome to Deep Learning | 2019-08-21 |
+| 02 | Applying Deep Learning | Skip |
+| 03 | [Anaconda](01-intro/03-anaconda.md) | 2019-08-22 |
+| 04 | [Jupyter Notebooks](01-intro/04-jupyter-notebooks.md) | 2019-08-22 |
+| 05 | [Matrix Math and NumPy Refresher](01-intro/05-matrix-and-numpy.ipynb) | |
 
-### WEEK 4
-Math Notation and Recommender Systems
+## [02 Neural Networks](02-nn/)
 
-### WEEK 5
-Data preparation (cleaning, regularization, dimensionality reduction)
+| Lesson | Title | Status |
+| ---- | ---- | ---- |
+| 01 | Introduction to Neural Networks | |
+| 02 | Implementing Gradient Descent | |
+| 03 | Training Neural Networks | |
+| 04 | Sentiment Analysis | |
+| 05 | Keras | |
+| 06 | TensorFlow | |
 
-### WEEK 6
-Drone Image Tracking
+## [03 Convolutional Neural Networks](03-cnn/)
 
-### WEEK 7
-Stock Prediction
+| Lesson | Title | Status |
+| ---- | ---- | ---- |
+| 01 | Cloud Computer | |
+| 02 | CNNs in TensorFlow | |
+| 03 | Weight Initialization | |
+| 04 | Convolutional Neural Networks | |
+| 05 | Autoencoders | |
+| 06 | Transfer Learning in TensorFlow | |
+| 07 | Deep Learning for Cancer Detection | |
+| 08 | CNN Project: Dog Breed Classifier | |
 
-### WEEK 8
-Art Generation
+## [04 Recurrent Neural Networks](04-rnn/)
 
-### WEEK 9
-Music Generation (LSTMs applied to Audio)
+| Lesson | Title | Status |
+| ---- | ---- | ---- |
+| 01 | Recurrent Neural Networks | |
+| 02 | Long Short-Term Memory Networks | |
+| 03 | Implementation of RNN and LSTM | |
+| 04 | Hyperparameters | |
+| 05 | Embeddings and Word2vec | |
+| 06 | Sentiment Prediction RNN | |
 
-### WEEK 10
-Poetry Generation (LSTMs applied to NLP)
+## [05 Generative Adversarial Networks](05-gan/)
 
-### WEEK 11
-Language translation (sequence to sequence)
+| Lesson | Title | Status |
+| ---- | ---- | ---- |
+| 01 | Generative Adversarial Networks | |
+| 02 | Deep Convolutional GANs | |
+| 03 | Semi-Supervised Learning | |
 
-### WEEK 12
-Chatbot QA System with Voice
+## [06 Deep Reinforcement Learning](06-rl/)
 
-### WEEK 13
-Game Bot 2D (reinforcement learning via Monte-Carlo tree search)
-
-### WEEK 14
-Image Compression
-
-### WEEK 15
-Data Visualization
-
-### WEEK 16
-Image Generation
-
-### FINAL WEEK 17
-One-shot Learning (Probabilistic Programming)
+| Lesson | Title | Status |
+| ---- | ---- | ---- |
+| 01 | Introduction to RL | |
+| 02 | The RL Framework: The Problem | |
+| 03 | The RL Framework: The Solution | |
+| 04 | Dynamic Programming | |
+| 05 | Monte Carlo Methods | |
+| 06 | Temporal-Difference Methods | |
+| 07 | Solve OpenAI Gym's Taxi-v2 Task | |
+| 08 | RL in Continuous Spaces | |
+| 09 | Deep Q-Learning | |
+| 10 | Policy-Based Methods | |
+| 11 | Actor-Critic Methods | |
+| 12 | Teach a Quadcopter How to Fly | |
