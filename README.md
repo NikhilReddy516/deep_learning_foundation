@@ -10,7 +10,7 @@
 | 02 | Applying Deep Learning | Skip |
 | 03 | [Anaconda](01-intro/03-anaconda.md) | 2019-08-22 |
 | 04 | [Jupyter Notebooks](01-intro/04-jupyter-notebooks.md) | 2019-08-22 |
-| 05 | [Matrix Math and NumPy Refresher](01-intro/05-matrix-and-numpy.ipynb) | |
+| 05 | [Matrix Math and NumPy Refresher](01-intro/05-matrix-and-numpy.ipynb) | 2019-08-24 |
 
 ## [02 Neural Networks](02-nn/)
 
