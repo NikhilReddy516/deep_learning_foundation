@@ -16,11 +16,11 @@
 
 | Lesson | Title | Status |
 | ---- | ---- | ---- |
-| 01 | Introduction to Neural Networks | |
-| 02 | Implementing Gradient Descent | |
-| 03 | Training Neural Networks | |
-| 04 | Sentiment Analysis | |
-| 05 | Keras | |
+| 01 | [Introduction to Neural Networks](02-nn/01-intro-to-neural-networks/notebook.ipynb) | 2019-08-25 |
+| 02 | Implementing Gradient Descent | Skip |
+| 03 | [Training Neural Networks](02-nn/03-training-neural-networks/notebook.ipynb) | 2019-08-25 |
+| 04 | [Sentiment Analysis](02-nn/04-sentiment-analysis/sentiment-classification.ipynb) | 2019-09-02 |
+| 05 | [Keras](02-nn/05-keras) | 2019-09-09 |
 | 06 | TensorFlow | |
 
 ## [03 Convolutional Neural Networks](03-cnn/)

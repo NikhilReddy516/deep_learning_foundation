@@ -1,8 +1,11 @@
 .ipynb_checkpoints/
+__pycache__/
 
 **/*.zip
 **/*.pickle
 
+02-nn/04-sentiment-analysis/labels.txt
+02-nn/04-sentiment-analysis/reviews.txt
 w3/sentiment_network/labels.txt
 w3/sentiment_network/reviews.txt
 w3/tf_learn/mnist/
